@@ -1,2 +1,2 @@
 # Electricity-Billing-Management-System
-Computerizes electricity bill payment service
+Computerized electricity bill payment service
